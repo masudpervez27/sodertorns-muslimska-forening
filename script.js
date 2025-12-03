@@ -78,7 +78,7 @@ if (eventForm) {
             }
 
         } catch (error) {
-            alert("Något gick fel. Kontrollera din internetanslutning.");
+            //alert("Något gick fel. Kontrollera din internetanslutning.");
             console.error('Error:', error);
             
             // For no-cors mode, assume success if no error
